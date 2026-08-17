@@ -1,6 +1,10 @@
-## Hi there 👋
+## He lo 👋
 
-What should I write here? :)
+Mình là Khôi! Mình hiện tại đang làm các dự án nho nhỏ và lâu lâu có thể fork lại các repo to to để thêm cái mình thích hẹ hẹ :)
+
+### Thông tin:
+- Ngôn ngữ đang làm: Python
+- Ngôn ngữ đang học: HTML, CSS và JS
 
 <!--
 **Cool-Casio-guy/Cool-Casio-guy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
