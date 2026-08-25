@@ -5,7 +5,9 @@ Mình là Khôi! Mình hiện tại đang làm các dự án nho nhỏ và lâu 
 ### Thông tin:
 - Ngôn ngữ đang làm: Python
 - Ngôn ngữ đang học: HTML, CSS và JS
-- Các hệ điều hành đang dùng: Windows là chính, lâu lâu có distro Ubuntu của WSL hẹ hẹ hẹ :)
+- Các hệ điều hành đang dùng: Windows là chính, lâu lâu có distro Ubuntu của WSL[^1] hẹ hẹ hẹ :)
+
+[*1]: Windows Subsystem Linux
 
 <!--
 **Cool-Casio-guy/Cool-Casio-guy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
