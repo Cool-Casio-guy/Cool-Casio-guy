@@ -3,8 +3,8 @@
 Mình là Khôi! Mình hiện tại đang làm các dự án nho nhỏ và lâu lâu có thể fork lại các repo to to để thêm cái mình thích hẹ hẹ :)
 
 ### Thông tin:
-- Ngôn ngữ đang làm: Python
-- Ngôn ngữ đang học: HTML, CSS và JS
+- Ngôn ngữ đang làm: Python; C++ của Arduino
+- Ngôn ngữ đang học: HTML, CSS và JS; C++ của Arduino
 - Các hệ điều hành đang dùng: Windows là chính, lâu lâu có distro Ubuntu của WSL[^1] hẹ hẹ hẹ :)
 - Tổng số giờ lập trình: [![wakatime](https://wakatime.com/badge/user/f155f567-b7c5-4fa8-be91-fc5c2f85ebe3.svg)](https://wakatime.com/@f155f567-b7c5-4fa8-be91-fc5c2f85ebe3)
 
